@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\res\\merged\\debug\\values-es-rUS\\values-es-rUS.xml",
+        "outputFile": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 170
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 233,
                         "endColumn": 119,
-                        "endOffset": 171
+                        "endOffset": 348
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 278
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 176,
+                        "startOffset": 353,
                         "endColumn": 107,
-                        "endOffset": 279
+                        "endOffset": 456
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 401
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 284,
+                        "startOffset": 461,
                         "endColumn": 122,
-                        "endOffset": 402
+                        "endOffset": 579
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 510
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 407,
+                        "startOffset": 584,
                         "endColumn": 108,
-                        "endOffset": 511
+                        "endOffset": 688
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 618
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 516,
+                        "startOffset": 693,
                         "endColumn": 107,
-                        "endOffset": 619
+                        "endOffset": 796
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 703
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 624,
+                        "startOffset": 801,
                         "endColumn": 84,
-                        "endOffset": 704
+                        "endOffset": 881
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 709,
+                        "startOffset": 886,
                         "endColumn": 100,
-                        "endOffset": 805
+                        "endOffset": 982
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 927
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 810,
+                        "startOffset": 987,
                         "endColumn": 122,
-                        "endOffset": 928
+                        "endOffset": 1105
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 932,
-                    "endColumn": 111,
-                    "endOffset": 1039
+                    "endColumn": 83,
+                    "endOffset": 1011
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 933,
-                        "endColumn": 111,
-                        "endOffset": 1040
+                        "startOffset": 1110,
+                        "endColumn": 83,
+                        "endOffset": 1189
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1044,
-                    "endColumn": 111,
-                    "endOffset": 1151
+                    "startOffset": 1016,
+                    "endColumn": 80,
+                    "endOffset": 1092
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1045,
-                        "endColumn": 111,
-                        "endOffset": 1152
+                        "startOffset": 1194,
+                        "endColumn": 80,
+                        "endOffset": 1270
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1156,
-                    "endColumn": 100,
-                    "endOffset": 1252
+                    "startOffset": 1097,
+                    "endColumn": 81,
+                    "endOffset": 1174
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1157,
-                        "endColumn": 100,
-                        "endOffset": 1253
+                        "startOffset": 1275,
+                        "endColumn": 81,
+                        "endOffset": 1352
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1257,
-                    "endColumn": 107,
-                    "endOffset": 1360
+                    "startOffset": 1179,
+                    "endColumn": 111,
+                    "endOffset": 1286
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1258,
-                        "endColumn": 107,
-                        "endOffset": 1361
+                        "startOffset": 1357,
+                        "endColumn": 111,
+                        "endOffset": 1464
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1365,
-                    "endColumn": 106,
-                    "endOffset": 1467
+                    "startOffset": 1291,
+                    "endColumn": 111,
+                    "endOffset": 1398
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1366,
-                        "endColumn": 106,
-                        "endOffset": 1468
+                        "startOffset": 1469,
+                        "endColumn": 111,
+                        "endOffset": 1576
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1472,
-                    "endColumn": 106,
-                    "endOffset": 1574
+                    "startOffset": 1403,
+                    "endColumn": 100,
+                    "endOffset": 1499
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1473,
-                        "endColumn": 106,
-                        "endOffset": 1575
+                        "startOffset": 1581,
+                        "endColumn": 100,
+                        "endOffset": 1677
                     }
                 }
             },
@@ -272,18 +272,113 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1579,
-                    "endColumn": 121,
-                    "endOffset": 1696
+                    "startOffset": 1504,
+                    "endColumn": 107,
+                    "endOffset": 1607
                 },
                 "from": {
-                    "file": "D:\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-es-rUS\\values.xml",
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1580,
+                        "startOffset": 1682,
+                        "endColumn": 107,
+                        "endOffset": 1785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1612,
+                    "endColumn": 106,
+                    "endOffset": 1714
+                },
+                "from": {
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1790,
+                        "endColumn": 106,
+                        "endOffset": 1892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1719,
+                    "endColumn": 106,
+                    "endOffset": 1821
+                },
+                "from": {
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1897,
+                        "endColumn": 106,
+                        "endOffset": 1999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1826,
+                    "endColumn": 121,
+                    "endOffset": 1943
+                },
+                "from": {
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2004,
                         "endColumn": 121,
-                        "endOffset": 1697
+                        "endOffset": 2121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1948,
+                    "endColumn": 99,
+                    "endOffset": 2043
+                },
+                "from": {
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2126,
+                        "endColumn": 99,
+                        "endOffset": 2221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2048,
+                    "endColumn": 100,
+                    "endOffset": 2144
+                },
+                "from": {
+                    "file": "E:\\gitrepos\\XMPPSample_Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2226,
+                        "endColumn": 100,
+                        "endOffset": 2322
                     }
                 }
             }

@@ -711,8 +711,8 @@ public class ActivityChatScreen extends Activity implements OnDataChanged {
                                     textTyping.setVisibility(View.INVISIBLE);
                                     chatItem.typing = "";
                                 }
-                                // actionBar.setTitle(chatItem.displayName +
-                                // chatItem.typing);
+//                                 actionBar.setTitle(chatItem.displayName +
+//                                 chatItem.typing);
                             }
                         }
 

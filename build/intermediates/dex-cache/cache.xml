@@ -1,3 +1,239 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-core\4.2.0-beta1\320998a00098ff9323feabdd148898161965ce53\smack-core-4.2.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="320998a00098ff9323feabdd148898161965ce53">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-core-4.2.0-beta1_0b43b9d74d8915956d4bed2e7c2f262d7dd9edee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-im\4.2.0-beta1\1c9a53fffef74d9dd9762eca4184100b153e99f5\smack-im-4.2.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1c9a53fffef74d9dd9762eca4184100b153e99f5">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-im-4.2.0-beta1_dee82dee86e433bf2a2092a03cd8eee425ee2c32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-core\0.5.0-alpha7\6bd7e07a1b991a783587e3dac1d34fc94ea28d1f\jxmpp-core-0.5.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6bd7e07a1b991a783587e3dac1d34fc94ea28d1f">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\jxmpp-core-0.5.0-alpha7_0eb71470694e6af69f165d58766eb81d6782fc2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gitrepos\XMPPSample_Studio\app\libs\ormlite-core-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\ormlite-core-4.48_f6334b6d219559fadd097e8e696c03efdee8bc38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_9c22be7fa80382078065fb3fb87370987f81e5ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-android\4.2.0-beta1\82ecf9684ab1c4115476e4db48d0c4eb78af9528\smack-android-4.2.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="82ecf9684ab1c4115476e4db48d0c4eb78af9528">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-android-4.2.0-beta1_1e11a5dd6ffb8deab8db8245a051e29765c8c996\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-util-cache\0.5.0-alpha7\6b51cd4ea6cdb74f8500de6fa4a2925a98ac466e\jxmpp-util-cache-0.5.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b51cd4ea6cdb74f8500de6fa4a2925a98ac466e">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\jxmpp-util-cache-0.5.0-alpha7_5b08959be24f69b19c621f6c8d8ba2aba1aa5257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_a2f2c74f816c5752435614e4f24bbd5caaddda94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-tcp\4.2.0-beta1\72f19dbdded10744da0d55cb1137e1cc73263ecf\smack-tcp-4.2.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72f19dbdded10744da0d55cb1137e1cc73263ecf">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-tcp-4.2.0-beta1_d436755faecebcbd07e2ab371f9abc7bb5e30840\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-extensions\4.2.0-beta1\1a48a3f42b686bd0858ff674cc3a78c1e5c2fcdc\smack-extensions-4.2.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1a48a3f42b686bd0858ff674cc3a78c1e5c2fcdc">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-extensions-4.2.0-beta1_eab6ba10d69c610cb42e9a77050d93e590f37ae3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_a915c5c97e1a25b796c850aed38ef86f03ef6166\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_47e8f8c9c1bd9c446f49a54e53bf68b47c65812d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-android-extensions\4.2.0-beta1\7b6e07f200b063b176b7eac0f0196a45de85824b\smack-android-extensions-4.2.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7b6e07f200b063b176b7eac0f0196a45de85824b">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-android-extensions-4.2.0-beta1_9ebebd882be798a2258c5d0e5e34558031cb0320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7896af860d21ecc28585430db785bb7149bbadf3">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9a73e0a43d17fdac3224ba477feb81fdbe3bc1e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26b6f0185cbba8917ba9d9d0bd170f95311622ab">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.stetho-stetho-1.4.1_81edfcc4605c247342de7984ade478068f4128a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_6971e52c27d928056c5a77c609506b3936ce29eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho-okhttp3\1.4.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7ff6b36b86cc5d50475d396ee60671200dbe419c">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.stetho-stetho-okhttp3-1.4.1_c00fe329c0376525a6a10b4b696a0dd3b90f8fcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-resolver-minidns\4.2.0-beta1\49c0f89ac2eaa1d41f4e9bfe8f44be0849b289e1\smack-resolver-minidns-4.2.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="49c0f89ac2eaa1d41f4e9bfe8f44be0849b289e1">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-resolver-minidns-4.2.0-beta1_a3fe5a5b391547908f68adcb3ec75669fd83747b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\de.measite.minidns\minidns\0.1.7\993582d1455b93a5723d2af4b39d8679735b3550\minidns-0.1.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\minidns-0.1.7_2f986d12d63791c7f6d13afa6dbdb4ec6b098c1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gitrepos\XMPPSample_Studio\app\libs\ormlite-android-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\ormlite-android-4.48_c58878dbd9125830776e6c4225fd9c3d1922639d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.1\b34c1f2d993044656e87f88970b6818e99e886ba\okhttp-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.0.1_80eb4feb3e1366c605e21840698cdf07d65470ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-jid\0.5.0-alpha7\a58f0dbdcc701d2be97e3d3bf957a5efbeab68d\jxmpp-jid-0.5.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0a58f0dbdcc701d2be97e3d3bf957a5efbeab68d">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\jxmpp-jid-0.5.0-alpha7_f97a35a7fbda3038039a7f6c7728d90b7def9063\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-sasl-provided\4.2.0-beta1\b5f579b928bfaf75bed05b0f64a83b6e98136ec9\smack-sasl-provided-4.2.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b5f579b928bfaf75bed05b0f64a83b6e98136ec9">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-sasl-provided-4.2.0-beta1_7cc8ce1bbece71024e417ddd1fdbfa6d22bd9311\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_19ecacd6dae10e1dc7ae5265cab2773ff5260cd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="effd50a4fdc48c61b4e3903265b606985a8768bb">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_320510453bcdcfb46f36d23d054983fe17927f22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muhammed\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="E:\gitrepos\XMPPSample_Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-cli-1.2_2c86d2803c6c31ea83aa41e4df003ab2bff1fe89\classes.dex" />
+    </item>
+
+</items>

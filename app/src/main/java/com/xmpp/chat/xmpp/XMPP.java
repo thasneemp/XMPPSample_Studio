@@ -32,8 +32,8 @@ import java.util.Collection;
 
 public class XMPP {
 
-    public static String HOST1 = "192.168.0.233";
-    public static String HOST = "192.168.0.233";
+    public static String HOST1 = "192.168.2.73";
+    public static String HOST = "192.168.2.73";
 
 
     public static final String LIVESERVICE = "liveappgroup@liveapp." + HOST;
@@ -46,8 +46,6 @@ public class XMPP {
     private XMPPTCPConnectionConfiguration buildConfiguration() throws XmppStringprepException {
         XMPPTCPConnectionConfiguration.Builder builder =
                 XMPPTCPConnectionConfiguration.builder();
-
-
         builder.setHost(HOST1);
         builder.setPort(PORT);
         builder.setCompressionEnabled(false);
@@ -219,7 +217,7 @@ public class XMPP {
 
         PingManager pingManager = PingManager.getInstanceFor(connect);
         pingManager.setPingInterval(150000);
-        connect.sendPacket(p);
+        connect.sendStanza(p);
 
 
     }

@@ -1,13 +1,5 @@
 package com.example.xmppsample;
 
-import java.io.IOException;
-
-
-import org.jivesoftware.smack.SmackException;
-import org.jivesoftware.smack.SmackException.NoResponseException;
-import org.jivesoftware.smack.SmackException.NotConnectedException;
-import org.jivesoftware.smack.XMPPException;
-
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
@@ -24,6 +16,13 @@ import android.widget.Toast;
 import com.xmpp.chat.data.AppSettings;
 import com.xmpp.chat.service.LiveAppService;
 import com.xmpp.chat.xmpp.XMPP;
+
+import org.jivesoftware.smack.SmackException;
+import org.jivesoftware.smack.SmackException.NoResponseException;
+import org.jivesoftware.smack.SmackException.NotConnectedException;
+import org.jivesoftware.smack.XMPPException;
+
+import java.io.IOException;
 
 public class Activity_ListUser extends Activity implements OnClickListener {
 
@@ -49,7 +48,7 @@ public class Activity_ListUser extends Activity implements OnClickListener {
         etServerName.setText(XMPP.HOST);
         View view = this.getCurrentFocus();
         if (view != null) {
-            InputMethodManager imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
+            InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
             imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
         }
     }
@@ -109,7 +108,7 @@ public class Activity_ListUser extends Activity implements OnClickListener {
                 AppSettings.setUser(this, user);
                 AppSettings.setPassword(this, pass);
                 AppSettings.setUserName(this, username);
-                XMPP.getInstance().login(user + "@" + XMPP.HOST, pass,
+                XMPP.getInstance().login(user, pass,
                         AppSettings.getStatus(this), username);
                 sendBroadcast(new Intent("liveapp.loggedin"));
 
@@ -122,7 +121,7 @@ public class Activity_ListUser extends Activity implements OnClickListener {
                 e1.printStackTrace();
             } catch (IOException e1) {
                 e1.printStackTrace();
-            }catch (Exception e1){
+            } catch (Exception e1) {
                 e1.printStackTrace();
             }
         }
@@ -138,10 +137,10 @@ public class Activity_ListUser extends Activity implements OnClickListener {
         protected Boolean doInBackground(Void... paramVarArgs) {
 
             String mEmail = userid;
-            String mUsername = "user1";
-            String mPassword = "welcome";
+            String mUsername = userid;
+            String mPassword = "123456";
 
-            if (register(userid, "welcome")) {
+            if (register(userid, "123456")) {
                 try {
                     XMPP.getInstance().close();
                 } catch (Exception e) {

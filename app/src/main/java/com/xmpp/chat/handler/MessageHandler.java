@@ -15,7 +15,6 @@ import org.jivesoftware.smack.StanzaListener;
 import org.jivesoftware.smack.packet.ExtensionElement;
 import org.jivesoftware.smack.packet.Message;
 import org.jivesoftware.smack.packet.Message.Type;
-import org.jivesoftware.smack.packet.PacketExtension;
 import org.jivesoftware.smack.packet.Stanza;
 import org.jivesoftware.smack.util.StringUtils;
 import org.jivesoftware.smackx.delay.packet.DelayInformation;
@@ -50,6 +49,8 @@ public class MessageHandler implements StanzaListener {
                         .getTimeInMillis();
                 messageItem.message = localMessage.getBody();
                 messageItem.isNewMessage = true;
+
+
 
                 boolean newMessage = true;
                 List<ExtensionElement> extnElements = localMessage.getExtensions();

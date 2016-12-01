@@ -55,6 +55,7 @@ public class LiveAppService extends Service {
 //        connection.addAsyncStanzaListener(new MessageHandler(this), localFromMatchesFilter);
         connection.addAsyncStanzaListener(new MessageHandler(this), null);
 
+
         ChatManager.getInstanceFor(connection)
                 .addChatListener(new ChatManagerListener() {
                     public void chatCreated(Chat paramAnonymousChat,
@@ -239,7 +240,7 @@ public class LiveAppService extends Service {
             holdConnectionHandler.sendEmptyMessageDelayed(0, 10 * 1000);
         }
 
-        ;
+
     };
 
     public void onCreate() {
